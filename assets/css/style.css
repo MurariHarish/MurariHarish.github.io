@@ -1206,3 +1206,17 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.skill-container {
+  border: 1px solid #7DB6E4;
+  background-color: #7DB6E4;
+  padding: 10px;
+  border-radius: 20px;
+}
+.skill-container-white {
+  border: 1px solid #D4E6F1;
+  background-color: #D4E6F1;
+  padding: 10px;
+  border-radius: 20px;
+}
+
