@@ -1220,3 +1220,11 @@ section {
   border-radius: 20px;
 }
 
+.skillset_flexbox_gap{
+  gap: 1rem;
+}
+
+
+.subdivision_bullet_points > li{
+  list-style-type: disc;
+}
