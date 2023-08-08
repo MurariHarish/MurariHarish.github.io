@@ -269,7 +269,7 @@
 
 })()
 function showContent(event, tabType) {
-  var projectTypes = ["ds", "da"];
+  var projectTypes = ["ml", "da", "de"];
   var tabElemLst = document.getElementsByName("tabHeader");
   [].forEach.call(tabElemLst, function (el) {
     el.classList.remove("tablinkSelected");
